@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jerryRaghuvanshi
 - 👀 I’m interested in ...Learning
-- 🌱 I’m currently learning ...java, operating system, Android studio
-- 💞️ I’m looking to collaborate on ...operating system building
-- 📫 How to reach me ...on whats app 7505127721
+- 🌱 I’m currently learning ...java, Spring ,Spring boot Android studio
+- 💞️ I’m looking to collaborate on ...full stack web aplication
+- 📫 How to reach me ...on whats app +917505127721
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
