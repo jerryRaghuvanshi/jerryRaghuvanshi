@@ -24,7 +24,7 @@
   <tr>
     <td width="60%">
       <h3><a href="https://strangle.in/">Strangle — Real-Time Voice/Video Discovery Platform</a></h3>
-      <p>A production-deployed social platform connecting users through low-latency opposite-gender voice matching, two-way mutual video consent, verified university campus pools, and Azar-style successive discovery.</p>
+      <p>A production-deployed social platform connecting users through low-latency opposite-gender voice matching, two-way mutual video consent, verified university campus pools, and continuous successive discovery.</p>
       <ul>
         <li><b>Distributed Matchmaking</b>: Atomic Redis Lua scripts and Sorted Sets for race-condition-free queue pairing.</li>
         <li><b>Cross-Platform WebRTC</b>: Low-latency media streaming between Next.js (Web) and Native Android (Kotlin) with Coturn STUN/TURN traversal.</li>
@@ -63,17 +63,6 @@
 - **Distributed Systems & Real-Time**: WebRTC, Redis (Sorted Sets, Lua Scripts, Distributed Locks), RabbitMQ, Coturn (STUN/TURN)
 - **Databases & Cloud Storage**: PostgreSQL, MySQL, MinIO (S3-Compatible Object Storage)
 - **Cloud & DevOps**: AWS EC2, Docker, Docker Compose, GitHub Actions CI/CD, Caddy (Reverse Proxy/TLS), Linux, Git
-
----
-
-### 📊 GitHub & Problem Solving Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerryRaghuvanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryRaghuvanshi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 <p align="center">
   <b>Let's connect!</b> Feel free to reach out on <a href="https://www.linkedin.com/in/jay-singh-raghuvanshi">LinkedIn</a> or via <a href="mailto:jay10125r@gmail.com">Email</a>.
