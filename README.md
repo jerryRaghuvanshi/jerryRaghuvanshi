@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jay Singh 👋</h1>
-<h3 align="center">Backend & Distributed Systems Engineer | Founder of <a href="https://strangle.in/">Strangle</a></h3>
+<h3 align="center">Backend & Distributed Systems Engineer</h3>
 
 <p align="center">
-  <a href="https://strangle.in/"><img src="https://img.shields.io/badge/Production%20Startup-strangle.in-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Strangle" /></a>
+  <a href="https://strangle.in/"><img src="https://img.shields.io/badge/Live%20Platform-strangle.in-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Strangle" /></a>
   <a href="https://www.linkedin.com/in/jay-singh-raghuvanshi"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jay10125r@gmail.com"><img src="https://img.shields.io/badge/Email-jay10125r%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://my-portfolio-eight-phi-88.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -11,14 +11,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 **Founder & Technical Lead** at **[Strangle](https://strangle.in)**, an active production voice & video discovery platform serving real-time users with high-concurrency Redis Lua matchmaking, WebRTC signaling, and AWS EC2 infrastructure.
+- 🚀 Developed **[Strangle](https://strangle.in)**, an active production voice & video discovery platform built with **Spring Boot, WebRTC, Redis, RabbitMQ, Docker, and AWS EC2**.
 - 🛠️ Specialized in **Java (21), Spring Boot, Distributed Systems, WebRTC, Redis, RabbitMQ, and Cloud Architecture**.
 - 💡 Solved **450+ LeetCode problems** across Data Structures & Algorithms.
 - 🏆 **TCS iON NQT-IT 2026**: Scored **81.22% overall** (*Cognitive: 83.60% | Java Programming: 82.39%*).
 
 ---
 
-### 🌟 Featured Flagship Project
+### 🌟 Featured Project
 
 <table>
   <tr>
